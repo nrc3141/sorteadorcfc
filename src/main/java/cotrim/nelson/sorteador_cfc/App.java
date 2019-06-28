@@ -10,7 +10,7 @@ public class App {
 
     public static void main(String[] args) {
         Sorteador sorteador = new Sorteador(6)
-            .addParticipante("NELSON", "Kakashi", "Gai", "Sasori")
+            .addParticipante("NELSON", "Deidara", "Véia dos bonecos", "Sasori")
             .addParticipante("MINORU", "Kakashi", "Orochimaru", "Temari")
             .addParticipante("JOHNE", "Shikamaru", "Minato", "Ino")
             .addParticipante("RAPHA", "Naruto", "Orochimaru", "Kankuro")
